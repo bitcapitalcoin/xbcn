@@ -1,7 +1,7 @@
 Bitcapitalcoin integration/staging tree
 ================================
 
-http://www.bitcapitalcoin.org
+http://www.bitcapitalcoin.com
 
 Copyright (c) 2009-2013 Bitcapitalcoin Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Bitcapitalcoin is also the name of the open sou
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcapitalcoin client software, see http://www.bitcapitalcoin.org.
+the Bitcapitalcoin client software, see http://www.bitcapitalcoin.com.
 
 License
 -------
